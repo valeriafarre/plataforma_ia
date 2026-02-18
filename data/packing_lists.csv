@@ -1,0 +1,8 @@
+pl_id,date,country,client,port,created_by,quotation_number,warehouse_origin,incoterm,items_count,total_units,excel_file,idempotency_key
+PL-20260202-0001,2/2/26,CO,A,China,juan_co,Q-20260202-0001,China,FOB,1,0,/Users/valeriafarrezambrano/plataforma_ia/output/PL-20260202-0001_CO_A_China.xlsx,
+PL-20260202-0002,2/2/26,CO,A,China,juan_co,Q-20260202-0002,China,FOB,1,3,/Users/valeriafarrezambrano/plataforma_ia/output/PL-20260202-0002_CO_A_China.xlsx,
+PL-20260202-0003,2/2/26,CO,A,China,juan_co,Q-20260202-0003,China,FOB,1,3,/Users/valeriafarrezambrano/plataforma_ia/output/PL-20260202-0003_CO_A_China.xlsx,demo-001
+PL-20260202-0004,2/2/26,CO,A,China,juan_co,Q-20260202-0004,China,FOB,1,3,/Users/valeriafarrezambrano/plataforma_ia/output/PL-20260202-0004_CO_A_China.xlsx,demo-002
+PL-20260202-0005,2/2/26,CO,A,China,juan_co,Q-20260202-0005,China,FOB,1,3,/Users/valeriafarrezambrano/plataforma_ia/output/PL-20260202-0005_CO_A_China.xlsx,demo-003
+PL-20260202-0006,2/2/26,CO,A,China,juan_co,Q-20260202-0006,China,FOB,1,3,/Users/valeriafarrezambrano/plataforma_ia/output/PL-20260202-0006_CO_A_China.xlsx,demo-004
+PL-20260210-0001,2026-02-10,CO,A,China,juan_co,Q-20260210-0001,MIAMI,FOB,1,2,/Users/valeriafarrezambrano/plataforma_ia/output/PL-20260210-0001_CO_A_China.xlsx,test-001
